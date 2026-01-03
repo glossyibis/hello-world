@@ -22,5 +22,5 @@ Markdown Link Syntax w/examples:
   [docs-link]: https://docs.github.com/
   [project-web]: https://example.com/project
   <!-- I have yet to improve my understanding of reference-style links. -->
-- Links around images: _(It is not possible to force a link to open in a new tab using standard Markdown syntax in a GitHub Markdown file (like a README.md file rendered directly on the GitHub website.)_
+- Links around images: _(It is not possible to force a link to open in a new tab using standard Markdown syntax in a GitHub Markdown file like a README.md file rendered directly on the GitHub website.)_
   [![Alt text for the image](https://yavuzceliker.github.io/sample-images/image-21.jpg)](https://github.com/yavuzceliker/sample-images?tab=readme-ov-file)
