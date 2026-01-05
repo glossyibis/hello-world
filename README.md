@@ -3,6 +3,8 @@ This repository is for practicing the GitHub Flow, this is not a complete projec
 
 This is the exercise I am following: [Hello World](https://docs.github.com/en/get-started/start-your-journey/hello-world)
 
+This is the ***[Markdown Guide](https://www.markdownguide.org)***
+
 # about
 
 Computer Science student building strong programming foundations.
@@ -11,7 +13,33 @@ Computer Science student building strong programming foundations.
 
 <!-- This is a hidden comment or content. It will not be visible in the rendered view, but can be seen in the raw Markdown source. -->
 
+# markdown-basic-syntax
+
+Markdown Basic Syntax w/examples:
+
+**bold**  
+*italic*  
+***bold and italic***  
+
+---
+
+> This is a blockquote  
+> What is this, then? (Same block)
+
+> Blockquotes can contain multiple paragraphs.
+>
+> Like these, for example.
+> 
+> > Blockquotes can be nested.
+
+---
+
+**Code:** To denote a word or phrase as code, enclose it in backticks (``). `example`
+
+[Source](https://www.markdownguide.org/basic-syntax/)
+
 # markdown-link-syntax
+
 Markdown Link Syntax w/examples:
 
 - Inline Links: [My GitHub profile](https://github.com/glossyibis)
@@ -22,5 +50,5 @@ Markdown Link Syntax w/examples:
   [docs-link]: https://docs.github.com/
   [project-web]: https://example.com/project
   <!-- I have yet to improve my understanding of reference-style links. -->
-- Links around images: _(It is not possible to force a link to open in a new tab using standard Markdown syntax in a GitHub Markdown file like a README.md file rendered directly on the GitHub website.)_
+- Links around images: *(It is not possible to force a link to open in a new tab using standard Markdown syntax in a GitHub Markdown file like a README.md file rendered directly on the GitHub website.)*
   [![Alt text for the image](https://yavuzceliker.github.io/sample-images/image-21.jpg)](https://github.com/yavuzceliker/sample-images?tab=readme-ov-file)
