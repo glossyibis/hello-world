@@ -25,7 +25,7 @@ Always use 2 spaces after the end of a line to get a linebreak.
 ***bold and italic***  
 ~strikethrough~  
 This is a <sub>subscript</sub> text  
-This is a <sup>subscript</sup> text  
+This is a <sup>superscript</sup> text  
 This is an <ins>underlined</ins> text  
 Emojis can be included: :dodo:
 
