@@ -76,3 +76,11 @@ A footnote can also have multiple lines[^2].
 [^1]: My reference.
 [^2]: To add line breaks within a footnote, add 2 spaces to the end of a line.  
 This is a second line.
+
+# to further review
+
+Links to further review, to learn more or understand some topics better:
+
+- GitHub Pages course hosted on GitHub. [Here](https://github.com/skills/github-pages)
+- Open Source Licenses. [Here](https://choosealicense.com)
+
