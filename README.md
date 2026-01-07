@@ -77,10 +77,25 @@ A footnote can also have multiple lines[^2].
 [^2]: To add line breaks within a footnote, add 2 spaces to the end of a line.  
 This is a second line.
 
+# buttons
+
+You can easily create custom "shields" or badges for your GitHub profile or repository README using the free, third-party service [Shields.io](https://shields.io/). 
+
+>[Shields.io](https://shields.io/) is a service for concise, consistent, and legible badges, which can easily be included in GitHub readmes or any other web page. The service supports dozens of continuous integration services, package registries, distributions, app stores, social networks, code coverage services, and code analysis services. It is used by some of the world's most popular open-source projects. Source: https://shields.io/docs
+
+*Builder:* https://shields.io/badges
+
+*Examples:*  
+- ![any text you like](https://img.shields.io/badge/github-repo-blue?logo=github) - https://img.shields.io/badge/github-repo-blue?logo=github
+- ![is this even visible?](https://img.shields.io/badge/Email-username%40proton.me-5D3FD3?style=for-the-badge&logo=protonmail&logoColor=white) - https://img.shields.io/badge/Email-username%40proton.me-5D3FD3?style=for-the-badge&logo=protonmail&logoColor=white
+- ![any text you like](https://img.shields.io/badge/any%20text-you%20like-blue) - https://img.shields.io/badge/any%20text-you%20like-blue
+- ![just the message](https://img.shields.io/badge/just%20the%20message-8A2BE2) - https://img.shields.io/badge/just%20the%20message-8A2BE2
+- !['for the badge' style](https://img.shields.io/badge/%27for%20the%20badge%27%20style-20B2AA?style=for-the-badge) - https://img.shields.io/badge/%27for%20the%20badge%27%20style-20B2AA?style=for-the-badge
+- ![with a logo](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript) - https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript
+
 # to further review
 
 Links to further review, to learn more or understand some topics better:
 
 - GitHub Pages course hosted on GitHub. [Here](https://github.com/skills/github-pages)
 - Open Source Licenses. [Here](https://choosealicense.com)
-
